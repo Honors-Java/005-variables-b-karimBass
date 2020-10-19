@@ -1,8 +1,19 @@
+int a;
+int b;
+int c;
+int d;
+
+
+
 void setup() {
+
 	size(500, 500);
+
 }
 
 void draw() {
+
+  rectMode()
 // Step 1: Write code that draws the following screenshots 
 // with hard-coded values. (Feel free to use colors 
 // instead of grayscale.)
